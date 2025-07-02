@@ -1,2 +1,5 @@
 # monitorme
- Ensure your services are always online with this lightweight app for scheduled health checks and system resource logging.
+Keep your infrastructure in check with continuous resource monitoring, heartbeat checks, and actionable alerts.
+
+## LICENSE
+MIT
